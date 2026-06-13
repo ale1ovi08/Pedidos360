@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\andre\\Documents\\DOCUMENTOS U\\Programacion Avanzada\\Pedidos360\\Pedidos360\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{674A2554-6BAD-42B7-94A8-3B76ED7B6A4D}|Pedidos360\\Pedidos360.csproj|c:\\users\\andre\\documents\\documentos u\\programacion avanzada\\pedidos360\\pedidos360\\pedidos360\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{674A2554-6BAD-42B7-94A8-3B76ED7B6A4D}|Pedidos360\\Pedidos360.csproj|solutionrelative:pedidos360\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84E1F08C-ADF3-45AF-BE22-F7BDAD1A7197}|Elementos de la soluci\u00F3n{84E1F08C-ADF3-45AF-BE22-F7BDAD1A7197}|C:\\Users\\andre\\Documents\\DOCUMENTOS U\\Programacion Avanzada\\Pedidos360\\Pedidos360\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{84E1F08C-ADF3-45AF-BE22-F7BDAD1A7197}|Elementos de la soluci\u00F3n{84E1F08C-ADF3-45AF-BE22-F7BDAD1A7197}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A43D1E-3FC4-9931-9596-AC6526C9D9B8}|Pedidos360\\Pedidos360.csproj|c:\\users\\andre\\documents\\documentos u\\programacion avanzada\\pedidos360\\pedidos360\\pedidos360\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A43D1E-3FC4-9931-9596-AC6526C9D9B8}|Pedidos360\\Pedidos360.csproj|solutionrelative:pedidos360\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A43D1E-3FC4-9931-9596-AC6526C9D9B8}|Pedidos360\\Pedidos360.csproj|c:\\users\\andre\\documents\\documentos u\\programacion avanzada\\pedidos360\\pedidos360\\pedidos360\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A43D1E-3FC4-9931-9596-AC6526C9D9B8}|Pedidos360\\Pedidos360.csproj|solutionrelative:pedidos360\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\DOCUMENTOS U\\Programacion Avanzada\\Pedidos360\\Pedidos360\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\andre\\Documents\\DOCUMENTOS U\\Programacion Avanzada\\Pedidos360\\Pedidos360\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-13T21:27:22.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\DOCUMENTOS U\\Programacion Avanzada\\Pedidos360\\Pedidos360\\Pedidos360\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Pedidos360\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\DOCUMENTOS U\\Programacion Avanzada\\Pedidos360\\Pedidos360\\Pedidos360\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Pedidos360\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T21:22:20.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\andre\\Documents\\DOCUMENTOS U\\Programacion Avanzada\\Pedidos360\\Pedidos360\\Pedidos360\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Pedidos360\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\andre\\Documents\\DOCUMENTOS U\\Programacion Avanzada\\Pedidos360\\Pedidos360\\Pedidos360\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Pedidos360\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-13T21:06:41.121Z",
               "EditorCaption": ""
