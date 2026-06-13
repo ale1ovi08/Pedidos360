@@ -4,10 +4,10 @@ Proyecto Final - SC-601 Programación Avanzada
 
 ## Integrantes
 
-Engel Garcia Murillo
-Saymonth Esteban Bravo Alemán
-Ronny Andrés Bonilla Castro
-Brayan Rojas Gonzalez
+Engel Garcia Murillo,
+Saymonth Esteban Bravo Alemán,
+Ronny Andrés Bonilla Castro,
+Brayan Rojas Gonzalez,
 Alejandro Oviedo
 
 ## Roles
