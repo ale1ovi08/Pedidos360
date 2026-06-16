@@ -1,8 +1,43 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Inicio";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="text-center mb-4">
+    <h1 style="font-family:'Playfair Display',serif; color:#AD1457; font-size:2.5rem;">
+        🎀 Bienvenida a Sweet360
+    </h1>
+    <p style="color:#B07A95; font-size:1.1rem;">Sistema de gestión para tu pastelería gourmet</p>
+</div>
+
+<div class="row g-4 mb-4">
+    <div class="col-md-4">
+        <div class="card text-center p-4" style="background: linear-gradient(135deg, #FCE4EC, #F8BBD9); border: 1px solid #F48FB1;">
+            <div style="font-size:2.5rem;">🧁</div>
+            <h3 style="color:#AD1457; font-family:'Playfair Display',serif;">Productos</h3>
+            <p style="color:#B07A95;">Gestiona tu catálogo de delicias</p>
+            <a asp-controller="Productos" asp-action="Index" class="btn btn-primary">Ver productos</a>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card text-center p-4" style="background: linear-gradient(135deg, #F3E5F5, #E1BEE7); border: 1px solid #CE93D8;">
+            <div style="font-size:2.5rem;">👥</div>
+            <h3 style="color:#6A1B9A; font-family:'Playfair Display',serif;">Clientes</h3>
+            <p style="color:#9575CD;">Administra tu lista de clientes</p>
+            <a asp-controller="Clientes" asp-action="Index" class="btn btn-primary" style="background:#CE93D8;">Ver clientes</a>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card text-center p-4" style="background: linear-gradient(135deg, #FFF9C4, #FFF176); border: 1px solid #F6C97A;">
+            <div style="font-size:2.5rem;">📦</div>
+            <h3 style="color:#F57F17; font-family:'Playfair Display',serif;">Pedidos</h3>
+            <p style="color:#F9A825;">Controla tus pedidos del día</p>
+            <a href="#" class="btn btn-primary" style="background:#F6C97A;">Ver pedidos</a>
+        </div>
+    </div>
+</div>
+
+<div class="card p-4 text-center" style="background: linear-gradient(135deg, #FCE4EC, #FFF9FB); border: 1px solid #F8BBD9;">
+    <p style="color:#AD1457; font-size:1rem; margin:0;">
+        🍰 Sweet360 — Tu pastelería gourmet, organizada con amor 🎀
+    </p>
 </div>
